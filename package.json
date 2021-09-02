@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-bita",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This package provides bitA's .eslintrc as an extensible shared config.",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
     "url": "https://github.com/toshifumiimanishi-bita/eslint-config-bita/issues"
   },
   "homepage": "https://github.com/toshifumiimanishi-bita/eslint-config-bita#readme",
-  "dependencies": {
+  "peerDependencies": {
     "eslint": "^7.32.0",
     "eslint-plugin-unicorn": "^35.0.0"
   }
