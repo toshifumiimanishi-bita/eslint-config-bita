@@ -5,7 +5,7 @@ This package provides bitA's .eslintrc as an extensible shared config.
 ## Install
 
 ```
-$ npm install --save-dev toshifumiimanishi-bita/eslint-config-bita.git
+$ npm install --save-dev eslint eslint-plugin-unicorn toshifumiimanishi-bita/eslint-config-bita.git
 ```
 
 ## Usage
