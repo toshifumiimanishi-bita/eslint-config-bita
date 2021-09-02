@@ -1,4 +1,7 @@
 module.exports = {
+  plugins: [
+    "unicorn",
+  ],
   rules: {
     "complexity": ["warn", 5],
     "max-depth": ["warn", 3],
